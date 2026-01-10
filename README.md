@@ -149,11 +149,10 @@ Key insights:
 ## Repository Structure
 
 ```
-├── SQL
-│   └── pizza_sales_queries.sql
-├── PowerBI
-│   └── Pizza_Sales_Dashboard.pbix
-└── README.md
+├── pizza_sales_queries.sql
+│   
+│── Pizza_Sales_Dashboard.pbix
+
 ```
 
 ---
